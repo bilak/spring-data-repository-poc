@@ -1,4 +1,4 @@
-package com.github.bilak.poc.springdatarepository.springdatarepository.persistence.jpa.repository;
+package com.github.bilak.poc.springdatarepository.persistence.jpa.repository;
 
 import org.springframework.data.domain.Slice;
 import org.springframework.data.domain.Sort;

@@ -1,6 +1,6 @@
-package com.github.bilak.poc.springdatarepository.springdatarepository;
+package com.github.bilak.poc.springdatarepository;
 
-import com.github.bilak.poc.springdatarepository.springdatarepository.web.rest.common.RestPageImpl;
+import com.github.bilak.poc.springdatarepository.web.rest.common.RestPageImpl;
 import org.json.JSONObject;
 import org.springframework.core.ParameterizedTypeReference;
 import org.springframework.http.HttpMethod;

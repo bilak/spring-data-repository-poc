@@ -1,4 +1,4 @@
-package com.github.bilak.poc.springdatarepository.springdatarepository;
+package com.github.bilak.poc.springdatarepository;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

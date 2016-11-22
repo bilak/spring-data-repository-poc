@@ -1,4 +1,4 @@
-package com.github.bilak.poc.springdatarepository.springdatarepository.persistence.jpa.common;
+package com.github.bilak.poc.springdatarepository.persistence.jpa.common;
 
 import org.springframework.data.domain.Sort;
 import org.springframework.util.StringUtils;

@@ -1,6 +1,6 @@
-package com.github.bilak.poc.springdatarepository.springdatarepository.persistence.jpa.repository;
+package com.github.bilak.poc.springdatarepository.persistence.jpa.repository;
 
-import com.github.bilak.poc.springdatarepository.springdatarepository.persistence.jpa.model.TestEntity;
+import com.github.bilak.poc.springdatarepository.persistence.jpa.model.TestEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

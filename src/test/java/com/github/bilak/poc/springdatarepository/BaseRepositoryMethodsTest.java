@@ -1,8 +1,8 @@
-package com.github.bilak.poc.springdatarepository.springdatarepository;
+package com.github.bilak.poc.springdatarepository;
 
-import com.github.bilak.poc.springdatarepository.springdatarepository.persistence.jpa.model.TestEntity;
-import com.github.bilak.poc.springdatarepository.springdatarepository.persistence.jpa.repository.BaseRepositoryImpl;
-import com.github.bilak.poc.springdatarepository.springdatarepository.persistence.jpa.repository.TestRepository;
+import com.github.bilak.poc.springdatarepository.persistence.jpa.repository.BaseRepositoryImpl;
+import com.github.bilak.poc.springdatarepository.persistence.jpa.model.TestEntity;
+import com.github.bilak.poc.springdatarepository.persistence.jpa.repository.TestRepository;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

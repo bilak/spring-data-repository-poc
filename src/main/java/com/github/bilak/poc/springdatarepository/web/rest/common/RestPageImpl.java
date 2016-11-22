@@ -1,4 +1,4 @@
-package com.github.bilak.poc.springdatarepository.springdatarepository.web.rest.common;
+package com.github.bilak.poc.springdatarepository.web.rest.common;
 
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.domain.SliceImpl;

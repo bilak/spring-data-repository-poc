@@ -1,6 +1,6 @@
-package com.github.bilak.poc.springdatarepository.springdatarepository.configuration;
+package com.github.bilak.poc.springdatarepository.configuration;
 
-import com.github.bilak.poc.springdatarepository.springdatarepository.persistence.jpa.repository.BaseRepositoryImpl;
+import com.github.bilak.poc.springdatarepository.persistence.jpa.repository.BaseRepositoryImpl;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 

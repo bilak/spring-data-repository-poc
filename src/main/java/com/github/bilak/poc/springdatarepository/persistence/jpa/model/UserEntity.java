@@ -1,4 +1,4 @@
-package com.github.bilak.poc.springdatarepository.springdatarepository.persistence.jpa.model;
+package com.github.bilak.poc.springdatarepository.persistence.jpa.model;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

@@ -1,4 +1,4 @@
-package com.github.bilak.poc.springdatarepository.springdatarepository;
+package com.github.bilak.poc.springdatarepository;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

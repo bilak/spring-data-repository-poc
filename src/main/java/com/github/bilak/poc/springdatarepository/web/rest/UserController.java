@@ -1,7 +1,7 @@
-package com.github.bilak.poc.springdatarepository.springdatarepository.web.rest;
+package com.github.bilak.poc.springdatarepository.web.rest;
 
-import com.github.bilak.poc.springdatarepository.springdatarepository.persistence.jpa.repository.UserEntityRepository;
-import com.github.bilak.poc.springdatarepository.springdatarepository.persistence.jpa.common.QueryHelper;
+import com.github.bilak.poc.springdatarepository.persistence.jpa.repository.UserEntityRepository;
+import com.github.bilak.poc.springdatarepository.persistence.jpa.common.QueryHelper;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;

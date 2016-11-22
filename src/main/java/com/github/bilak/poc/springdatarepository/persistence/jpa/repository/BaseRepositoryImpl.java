@@ -1,4 +1,4 @@
-package com.github.bilak.poc.springdatarepository.springdatarepository.persistence.jpa.repository;
+package com.github.bilak.poc.springdatarepository.persistence.jpa.repository;
 
 import org.springframework.data.domain.*;
 import org.springframework.data.jpa.domain.Specification;
